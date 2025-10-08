@@ -23,8 +23,8 @@ These demos have been built using <b>JDK 17</b>. While it is recommended to have
 Before diving into Maven, ensure you're comfortable with the following core Java topics:
 </p>
 <ul>
-    <li><a href="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html" target="_blank">Java Basics</a></li>
-    <li><a href="https://github.com/aashiqui2/Java-Advanced" target="_blank">Java Advanced</a></li>
+    <li><a href="" target="_blank">Java Basics</a></li>
+    <li><a href="" target="_blank">Java Advanced</a></li>
     <li><a href="https://github.com/aashiqui2/JDBC" target="_blank">Java Database Connectivity (JDBC)</a></li>
 </ul>
 
